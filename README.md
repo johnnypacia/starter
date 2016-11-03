@@ -8,6 +8,9 @@ A simple starter project
 - Make sure you have NPM installed version 3+
 - `WINDOWS ONLY` run `npm install -g webpack webpack-dev-server typescript` to install global dependencies
 - run `npm install` to install dependencies
+
+## Please note: Running NPM install brings up an error regarding semantic ui, HOWEVER if you run npm start the iframe loads as expected. I tested it on both an imac and macbook
+
 - run `npm start` to fire up dev server
 - open browser to [`http://localhost:3000`](http://localhost:3000)
 
